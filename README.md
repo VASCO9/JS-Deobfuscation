@@ -15,6 +15,8 @@ First, we will try BeautifyTools to obfuscate our code: https://beautifytools.co
  
  CURL
  
- Carlos Vasconez@htb[/htb]$ curl -s http://SERVER_IP:PORT/ -X POST
+ Vasco@htb[/htb]$ curl -s http://SERVER_IP:PORT/ -X POST
+ 
+ 
  
  
